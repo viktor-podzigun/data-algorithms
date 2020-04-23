@@ -12,23 +12,9 @@ public class ReverseArray {
             arr[i] = arr[j];
             arr[j] = tmp;
 
-            //printArray(arr);
+            //ArrayUtil.print(arr);
         }
         
         return arr;
-    }
-    
-     static void printArray(int[] arr) {
-        StringBuilder sb = new StringBuilder("[");
-        for (int i = 0; i < arr.length; i++) {
-            if (i > 0) {
-                sb.append(", ");
-            }
-            
-            sb.append(arr[i]);
-        }
-
-        sb.append("]");
-        System.out.println(sb.toString());
     }
 }

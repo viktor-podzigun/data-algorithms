@@ -14,4 +14,5 @@ sbt test
 ### Overview
 
 * Arrays
-  * [ReverseArray](src/main/java/algorithms/array/ReverseArray.java) => [test](src/test/scala/algorithms/array/ReverseArraySpec.scala)
+  * [reverse](src/main/java/algorithms/array/ReverseArray.java) => [test](src/test/scala/algorithms/array/ReverseArraySpec.scala)
+  * [rotate](src/main/java/algorithms/array/RotateArray.java) => [test](src/test/scala/algorithms/array/RotateArraySpec.scala)

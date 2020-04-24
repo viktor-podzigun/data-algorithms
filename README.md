@@ -13,6 +13,11 @@ sbt test
 
 ### Overview
 
-* Arrays
-  * [reverse](src/main/java/algorithms/array/ReverseArray.java) => [test](src/test/scala/algorithms/array/ReverseArraySpec.scala)
-  * [rotate](src/main/java/algorithms/array/RotateArray.java) => [test](src/test/scala/algorithms/array/RotateArraySpec.scala)
+#### Arrays
+
+* [reverse](src/main/java/algorithms/array/ReverseArray.java)
+  => [test](src/test/scala/algorithms/array/ReverseArraySpec.scala)
+* [rotate array by N elements](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
+  ([java](src/main/java/algorithms/array/RotateArray.java))
+  => [test](src/test/scala/algorithms/array/RotateArraySpec.scala)
+

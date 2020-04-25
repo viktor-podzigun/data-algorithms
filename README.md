@@ -23,4 +23,7 @@ sbt test
 * [smallest sub-array with sum greater than X](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0)
   ([java](src/main/java/algorithms/array/SmallestSubArray.java))
   => [test](src/test/scala/algorithms/array/SmallestSubArraySpec.scala)
+* [count the zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros/0)
+  ([java](src/main/java/algorithms/array/CountZeros.java))
+  => [test](src/test/scala/algorithms/array/CountZerosSpec.scala)
 

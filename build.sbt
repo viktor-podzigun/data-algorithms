@@ -1,7 +1,7 @@
 
 val ideExcludedDirectories = SettingKey[Seq[File]]("ide-excluded-directories")
 
-lazy val `elevator-challenge` = (project in file("."))
+lazy val `data-algorithms` = (project in file("."))
   .settings(
     organization := "org.scommons.viktor-podzigun",
     name := "data-algorithms",

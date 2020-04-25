@@ -20,4 +20,7 @@ sbt test
 * [rotate array by N elements](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
   ([java](src/main/java/algorithms/array/RotateArray.java))
   => [test](src/test/scala/algorithms/array/RotateArraySpec.scala)
+* [smallest sub-array with sum greater than X](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0)
+  ([java](src/main/java/algorithms/array/SmallestSubArray.java))
+  => [test](src/test/scala/algorithms/array/SmallestSubArraySpec.scala)
 

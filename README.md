@@ -27,3 +27,10 @@ sbt test
   ([java](src/main/java/algorithms/array/CountZeros.java))
   => [test](src/test/scala/algorithms/array/CountZerosSpec.scala)
 
+#### Graph
+
+* Breadth First Search
+  * [knight walk](https://practice.geeksforgeeks.org/problems/knight-walk/0/)
+    ([java](src/main/java/algorithms/graph/bfs/KnightWalk.java))
+    => [test](src/test/scala/algorithms/graph/bfs/KnightWalkSpec.scala)
+
